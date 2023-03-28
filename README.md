@@ -19,10 +19,11 @@ This workshop will provide an overview of taxonomic classification and the impor
 Please note, the original raw fastq files, which were obtained from Jesser et al., 2019 were downsampled to 20X coverage using seqtk sample and then subjected to host removal using the iGenomes *Homo sapiens* bowtie 2 index from the 2023-03-23-Bacterial-Genomics Workshop.
 
 https://drive.google.com/drive/folders/1vVc2KJnlAsy8u2l6VPgKWMEBtmL6zRwE?usp=share_link
+
 ---
 
 ## To download the Standard-8 Kraken 2 reference database from https://benlangmead.github.io/aws-indexes/k2, click the following link and "copy" to your local folder.
-It is HIGHLY RECOMMENDED to download the reference database to your conda_workshop directory prior to the start of the workshop to avoid any delays.
+It is HIGHLY RECOMMENDED to download the reference database to your conda_workshop directory prior to the start of the workshop to avoid any delays in processing the data during the workshop demonstration period.
 
 https://drive.google.com/drive/folders/1Lzdpl6XW4anl4lNtU5dN2Zuszb44FDJB?usp=share_link
 
