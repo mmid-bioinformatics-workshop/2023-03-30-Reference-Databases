@@ -23,7 +23,7 @@ https://drive.google.com/drive/folders/1vVc2KJnlAsy8u2l6VPgKWMEBtmL6zRwE?usp=sha
 ---
 
 ## To download the Standard-8 Kraken 2 reference database from https://benlangmead.github.io/aws-indexes/k2, click the following link and "copy" to your local folder.
-It is HIGHLY RECOMMENDED to download the reference database to your conda_workshop directory prior to the start of the workshop to avoid any delays in processing the data during the workshop demonstration period.
+It is HIGHLY RECOMMENDED to download the reference database prior to the start of the workshop to avoid any delays in processing the data during the workshop demonstration period.
 
 https://drive.google.com/drive/folders/1Lzdpl6XW4anl4lNtU5dN2Zuszb44FDJB?usp=share_link
 
