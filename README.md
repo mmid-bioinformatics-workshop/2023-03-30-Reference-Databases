@@ -11,7 +11,7 @@ YouTube:
 
 ## Course Description 
 
-This workshop will provide an overview of taxonomic classification and the importance of well constructed reference databases.  We will also discuss some of the key considerations when attempting to build your own reference database, and how to choose the right classification software for your research needs.  To put our newfound knowledge into practise, we will perform taxonomic classification on a publically available bacterial genomic dataset using Kraken 2 and review the output.  Time permitting, we may also visualize the results in Pavian. 
+This workshop will provide an overview of taxonomic classification and the importance of well constructed reference databases.  We will also discuss some of the key considerations when attempting to build your own reference database, and how to choose the right classification software for your research needs.  To put our knowledge into practise, we will perform taxonomic classification on a publically available bacterial genomic dataset using Kraken 2.  Time permitting, we may also visualize the Kraken 2 report file in Pavian. 
 
 ---
 
@@ -26,6 +26,8 @@ https://drive.google.com/drive/folders/1vVc2KJnlAsy8u2l6VPgKWMEBtmL6zRwE?usp=sha
 It is HIGHLY RECOMMENDED to download the reference database prior to the start of the workshop to avoid any delays in processing the data during the workshop demonstration period.
 
 https://drive.google.com/drive/folders/1Lzdpl6XW4anl4lNtU5dN2Zuszb44FDJB?usp=share_link
+
+Once the database has finished downloading, please decompress the file using tar -xvf
 
 ---
 
