@@ -42,7 +42,7 @@ kraken2 --help
 
 # 7. Run Kraken 2 from the Reference_Databases directory using the test dataset SAMN02368311
 
-kraken2 --db ./kraken2_STND-DB-8GB/ --threads 2 --report ./kraken2_output/SAMN02368311-K2reportfile.tsv --report-minimizer-data --paired ./Datasets/Downsampled_HR-fastq/SAMN02368311_R1.fastq ./Datasets/Downsampled_HR-fastq/SAMN02368311_R2.fastq > ./kraken2_output/SAMN02368311-K2readclassification.tsv
+kraken2 --db ./kraken2_STND-DB-8GB/ --threads 2 --report ./kraken2_output/SAMN02368311-K2reportfile.tsv --report-minimizer-data --paired ./Datasets/Downsampled_HR_fastq/SAMN02368311_R1.fastq ./Datasets/Downsampled_HR_fastq/SAMN02368311_R2.fastq > ./kraken2_output/SAMN02368311-K2readclassification.tsv
 
 ## NOTE: If you are at the NML using high performance computer, use the following code
 sbatch -c 1 --mem=2G -p NMLResearch -J Kraken2 --wrap="kraken2 --db ./kraken2_STND-DB-8GB/ --threads 2 --report ./kraken2_output/SAMN02368311-K2reportfile.tsv --report-minimizer-data --paired ./Datasets/Downsampled_HR-fastq/SAMN02368311_R1.fastq ./Datasets/Downsampled_HR-fastq/SAMN02368311_R2.fastq > ./kraken2_output/SAMN02368311-K2readclassification.tsv"
